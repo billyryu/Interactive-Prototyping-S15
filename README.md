@@ -8,3 +8,4 @@ Class repo for example code, MFA Design and Technology. Parsons The New School f
 * a readme file
 * a gitignore file
 * all my project stuff
+* another change
