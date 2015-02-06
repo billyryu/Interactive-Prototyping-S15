@@ -1,7 +1,7 @@
 # Interactive-Prototyping-S15
-Class repo for example code, MFA Design and Technology. Parsons School for Design.
+Class repo for example code, MFA Design and Technology. Parsons The New School for Design.
 
-** This is my readme file **
+**This is my readme file**
 
 ###It contains:
 
